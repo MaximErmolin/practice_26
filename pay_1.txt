@@ -2,3 +2,5 @@ code
 code
 check for updates
 Autotests_check
+Maxim_developer_tasks
+Andrey_developer_tasks
